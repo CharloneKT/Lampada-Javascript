@@ -1,3 +1,5 @@
-# Lampada-Javascript
 
-Dark mode and light mode
+# Lampada-Javascript 💡
+
+🌑 Dark mode and ☀️ light mode
+
